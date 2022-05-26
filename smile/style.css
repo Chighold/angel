@@ -1,0 +1,27 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+div {
+    width: 30%;
+    margin: auto;
+    font-weight: 50;
+    text-align: center;
+    font-style: normal;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 100px;
+}
+h1 {
+    font-weight: bold;
+    font-size: 100;
+    font-family: sans-serif
+}
+.cta {
+    color: white;
+    background-color: blue;
+    padding: 10px;
+    border-radius: 5px;
+}
+.underlined {
+    text-decoration: underline;
+}
